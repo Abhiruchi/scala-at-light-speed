@@ -1,0 +1,6 @@
+# Created by .ignore support plugin (hsz.mobi)
+.idea/
+build.sbt
+project/
+src/main/scala/com/rockthejvm/Playground.scala
+target/
