@@ -138,17 +138,4 @@ object ObjectOrientation extends App {
 
   // App has main method. static methid implementted in app. execute object's body and thats why runnable
 
-
-
-
-
-
-
-
-
-
-
-
-
-
 }
